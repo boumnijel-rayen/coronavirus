@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1617915794 source:c:\users\asus\desktop\langage c\projet asd2\lstgov.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+
+1617915704 c:\users\asus\desktop\langage c\projet asd2\lstprim.h
+	"LSTSDD.h"
+
+1617915674 c:\users\asus\desktop\langage c\projet asd2\lstsdd.h
+	"LSTGOV.h"
+
+1617915654 c:\users\asus\desktop\langage c\projet asd2\lstgov.h
+	"ELTPRIM.h"
+
+1617915602 c:\users\asus\desktop\langage c\projet asd2\eltprim.h
+	"ELTSDD.h"
+
+1617915580 c:\users\asus\desktop\langage c\projet asd2\eltsdd.h
+	"ELTGOV.h"
+
+1617915558 c:\users\asus\desktop\langage c\projet asd2\eltgov.h
+
+1617915629 source:c:\users\asus\desktop\langage c\projet asd2\eltgov.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.h"
+

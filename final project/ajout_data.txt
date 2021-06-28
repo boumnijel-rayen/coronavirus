@@ -1,0 +1,20 @@
+  Date    Gouv  CP  G  D  NV
+30 3 2021 Gafsa 14 5 0 9
+30 3 2021 Kairouan 8 1 0 10
+30 3 2021 Kasserine 4 0 0 40
+30 3 2021 Kebili 2 0 0 5
+30 3 2021 LaManouba 22 4 3 40
+30 3 2021 Mahdia 23 8 1 20
+30 3 2021 Medenine 12 3 0 8
+30 3 2021 Monastir 19 7 2 20
+30 3 2021 Nabeul 50 22 4 38
+31 3 2021 LaManouba 22 4 3 40
+1 4 2021 LaManouba 22 4 3 40
+2 4 2021 LaManouba 22 4 3 40
+3 4 2021 LaManouba 22 4 3 40
+4 4 2021 LaManouba 22 4 3 40
+30 3 2021 Tunis 400 24 10 29
+30 3 2021 LeKef 16 3 1 16
+31 3 2021 Tunis 402 30 14 33
+30 3 2021 Jendouba 7 1 0 5
+1 4 2021 Tunis 410 32 17 40
